@@ -19,6 +19,24 @@ full detailed simulation:
 
 
 ---
+
+---
+
+## 📸 Screenshots
+
+### 🕳️ Cinematic View
+![Cinematic Black Hole View](assets/screenshots/cinematic_view.png)
+
+### 📚 Learn Mode — Relativistic Effects
+![Learn Mode](assets/screenshots/learn_mode.png)
+
+### 🔭 Guided Journey — Gravitational Lensing
+![Guided Journey](assets/screenshots/guided_journey.png)
+
+### 🌀 Frame Dragging & Ergosphere Visualization
+![Frame Dragging](assets/screenshots/frame_dragging.png)
+
+---
 ## ✨ Features
 
 ### 🌌 Cinematic Black Hole Visualization
