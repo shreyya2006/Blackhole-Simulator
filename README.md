@@ -6,6 +6,19 @@ This project aims to make black holes not just visible, but explorable — allow
 
 ---
 
+---
+
+## 🎬 Demo Video
+
+Experience the simulator in action:
+full detailed simulation:
+▶️ (https://youtu.be/bVZbL7705Sg?si=PdYU8lgqboBivOSK)
+
+1 minute preview(just visuals):
+▶️(https://youtu.be/17Cz8rPHFvM)
+
+
+---
 ## ✨ Features
 
 ### 🌌 Cinematic Black Hole Visualization
