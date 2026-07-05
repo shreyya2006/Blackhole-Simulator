@@ -12,7 +12,7 @@ This project aims to make black holes not just visible, but explorable — allow
 
 ## 🎬 Demo Video
 
-~Experience the simulator in action~
+~Experience the simulator in action!
 
 full detailed simulation:
 
