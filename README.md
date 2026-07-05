@@ -33,7 +33,7 @@ full detailed simulation:
 ### 🔭 Guided Journey — Gravitational Lensing
 ![Guided Journey](assets/screenshots/guided_journey.png)
 
-### 🌀 Frame Dragging & Ergosphere Visualization
+### 🔬 Physics Visualization Mode
 ![Physics Mode](assets/screenshots/physics_mode.png)
 
 ---
