@@ -1,4 +1,4 @@
-\# 🕳️ Interactive Kerr Black Hole Simulator
+🕳️ Interactive Kerr Black Hole Simulator
 
 
 
