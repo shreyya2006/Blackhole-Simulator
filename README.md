@@ -2,9 +2,9 @@
 
 What would it feel like to travel near a black hole?
 
-KerrLab is an interactive simulation that lets you explore one of the strangest objects in the universe — a rotating black hole. Instead of only seeing black holes in pictures, you can move around one, change how it behaves, and watch space distort around it.
+KerrLab is an interactive simulation that lets you explore one of the strangest objects in the universe — a **rotating black hole**. Instead of only seeing black holes in pictures, you can move around one, change how it behaves, and watch space distort around it.
 
-Light bends, stars warp, the accretion disk glows, and the effects of extreme gravity become visible as you explore. The simulator includes a cinematic mode for experiencing the black hole and a learning mode that explains the physics behind what is happening, from gravitational lensing to frame dragging.
+**Light bends, stars warp, the accretion disk glows, and the effects of extreme gravity become visible as you explore.** The simulator includes a cinematic mode for experiencing the black hole and a learning mode that explains the physics behind what is happening, from gravitational lensing to frame dragging.
 
 Built with **Python** and **Taichi**, combining real-time rendering, general relativity concepts, and educational visualization.
 
