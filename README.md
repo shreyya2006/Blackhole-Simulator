@@ -34,7 +34,7 @@ full detailed simulation:
 ![Guided Journey](assets/screenshots/guided_journey.png)
 
 ### 🌀 Frame Dragging & Ergosphere Visualization
-![Frame Dragging](assets/screenshots/frame_dragging.png)
+![Physics Mode](assets/screenshots/physics_mode.png)
 
 ---
 ## ✨ Features
