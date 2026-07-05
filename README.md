@@ -1,193 +1,159 @@
-🕳️ Interactive Kerr Black Hole Simulator
+# 🕳️ Interactive Kerr Black Hole Simulator
 
-
-
-An interactive black hole exploration laboratory built with \*\*Python\*\* and \*\*Taichi\*\*, combining real-time rendering, general relativity concepts, and educational visualization.
-
-
+An interactive black hole exploration laboratory built with **Python** and **Taichi**, combining real-time rendering, general relativity concepts, and educational visualization.
 
 This project aims to make black holes not just visible, but explorable — allowing users to experience gravitational lensing, relativistic effects, and the structure of a rotating black hole through an interactive scientific sandbox.
 
+---
 
+## ✨ Features
 
-\---
+### 🌌 Cinematic Black Hole Visualization
 
+- Real-time black hole rendering
+- Accretion disk visualization
+- Deep space star environment
+- Bloom and cinematic post-processing effects
+- Immersive exploration camera
 
+---
 
-\## ✨ Features
+### 🕳️ Kerr Black Hole Physics
 
+- Rotating black hole simulation concepts
+- Event horizon calculation
+- ISCO (Innermost Stable Circular Orbit) visualization
+- Frame-dragging effects
+- Relativistic spacetime visualization
 
+---
 
-\### 🌌 Cinematic Black Hole Visualization
+### 🔭 General Relativistic Ray Tracing
 
-\- Real-time black hole rendering
+- Photon trajectory simulation
+- Backward ray tracing from observer camera
+- RK4 numerical integration
+- Gravitational lensing visualization
 
-\- Accretion disk visualization
+---
 
-\- Deep space star environment
+### 📚 Learn Mode
 
-\- Bloom and cinematic post-processing effects
+An educational mode designed for understanding black holes interactively.
 
-\- Immersive exploration camera
+Includes:
 
+- Guided black hole exploration journey
+- Scientific explanations
+- Physics overlays
+- Event horizon and ergosphere visualization
+- Gravitational lensing explanations
 
+---
 
-\### 🕳️ Kerr Black Hole Physics
-
-\- Rotating black hole model
-
-\- Event horizon calculation
-
-\- ISCO (Innermost Stable Circular Orbit)
-
-\- Frame-dragging visualization
-
-\- Relativistic effects
-
-
-
-\### 🔭 General Relativistic Ray Tracing
-
-\- Photon path simulation
-
-\- Backward ray tracing from observer camera
-
-\- RK4 numerical integration
-
-\- Gravitational lensing visualization
-
-
-
-\### 📚 Learn Mode
-
-Designed as an educational astronomy tool:
-
-\- Guided black hole journey
-
-\- Scientific explanations
-
-\- Physics overlays
-
-\- Event horizon, ergosphere, and lensing concepts
-
-
-
-\### 🚀 Explorer Mode
+### 🚀 Explorer Mode
 
 Move around the simulation:
 
-\- Orbit camera
+- Orbit camera
+- Free-flight navigation
+- Zoom and inspect black hole structures
 
-\- Free-flight navigation
+---
 
-\- Zoom and inspect black hole structures
-
-
-
-\### 🧪 Physics Sandbox
+### 🧪 Physics Sandbox
 
 Experiment with:
 
-\- Black hole spin
+- Black hole spin
+- Camera position
+- Time scaling
+- Light ray trajectories
 
-\- Camera position
+---
 
-\- Time scaling
+## 🛠️ Built With
 
-\- Light ray trajectories
+- Python 3.12
+- Taichi
+- GPU acceleration
+- Numerical physics simulation
 
+---
 
+## 📂 Project Structure
 
-\---
-
-
-
-\## 🛠️ Built With
-
-
-
-\- Python 3.12
-
-\- Taichi
-
-\- GPU acceleration
-
-\- Numerical physics simulation
-
-
-
-\---
-
-
-
-\## 📂 Project Structure
-
+```
 Blackhole-Simulator/
 
-
-
-├── sim.py # Main application loop
-
-├── physics.py # Kerr physics and geodesic calculations
-
-├── renderer.py # Rendering engine and visual effects
-
-├── ui.py # HUD, controls, learning mode
-
+├── sim.py          # Main application loop
+├── physics.py      # Kerr physics and geodesic calculations
+├── renderer.py     # Rendering engine and visual effects
+├── ui.py           # HUD, controls, learning mode
 └── README.md
+```
 
+---
 
+## ▶️ Running the Simulator
+
+Install dependencies:
+
+```bash
+pip install taichi
+```
 
 Run:
 
-
-
+```bash
 python sim.py
-
-
+```
 
 For lower-end GPUs:
 
-
-
+```bash
 python sim.py --quality low
+```
 
-
+---
 
 ## 🎮 Controls
 
 | Control | Action |
 |---------|--------|
 | Mouse Drag | Rotate camera / look around |
-| W/S | Move or zoom |
-| A/D | Strafe in explorer mode |
+| W / S | Move or zoom |
+| A / D | Strafe in explorer mode |
 | Space | Pause simulation |
 | ↑ / ↓ | Change time speed |
 | R | Reset simulation |
 | ESC | Exit simulator |
 
+---
 
+## 🎯 Goal
 
-🎯 Goal
-
-
-
-The goal of this project is to create a bridge between scientific simulation and curiosity-driven exploration.
-
-
+The goal of this project is to create a bridge between **scientific simulation** and **curiosity-driven exploration**.
 
 Instead of only watching a black hole animation, users can experiment, explore, and learn how extreme gravity shapes the universe.
 
+The simulator is designed to feel like a virtual astrophysics laboratory — combining cinematic visuals with interactive scientific learning.
 
+---
 
-* Future Improvements
-* More detailed accretion disk rendering
-* Higher quality cinematic mode
-* Additional astrophysical objects
-* Improved relativistic physics models
-* More interactive experiments
+## 🚧 Future Improvements
 
+- More realistic accretion disk rendering
+- Higher quality cinematic visualization
+- Additional astrophysical objects
+- Improved relativistic physics models
+- More interactive experiments
+- Performance optimization for different hardware
 
+---
 
-⭐ Explore the universe, one simulation at a time.
+## ⭐ Project Vision
 
+To make black holes understandable, explorable, and inspiring through interactive simulation.
+
+**Explore the universe, one simulation at a time.** 🪐
