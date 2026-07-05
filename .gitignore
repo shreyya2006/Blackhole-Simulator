@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+*.exe
+
+imgui.ini
+
+.vscode/
+.idea/
+
+simathon-blackhole-demo.zip
+simathon-blackhole-demo/
