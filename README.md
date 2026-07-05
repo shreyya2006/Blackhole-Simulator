@@ -154,27 +154,17 @@ python sim.py --quality low
 
 
 
-🎮 Controls
+## 🎮 Controls
 
-
-
-Control	Action
-
-
-
-Mouse Drag	Rotate camera / look around
-
-W/S	Move or zoom
-
-A/D	Strafe in explorer mode
-
-Space	Pause simulation
-
-↑ ↓	Change time speed
-
-R	Reset
-
-ESC	Exit
+| Control | Action |
+|---------|--------|
+| Mouse Drag | Rotate camera / look around |
+| W/S | Move or zoom |
+| A/D | Strafe in explorer mode |
+| Space | Pause simulation |
+| ↑ / ↓ | Change time speed |
+| R | Reset simulation |
+| ESC | Exit simulator |
 
 
 
