@@ -5,16 +5,20 @@ An interactive black hole exploration laboratory built with **Python** and **Tai
 This project aims to make black holes not just visible, but explorable — allowing users to experience gravitational lensing, relativistic effects, and the structure of a rotating black hole through an interactive scientific sandbox.
 
 ---
+## 🎬 Preview
 
+![Black Hole Simulator Preview](assets/demo.gif)
 ---
 
 ## 🎬 Demo Video
 
 Experience the simulator in action:
 full detailed simulation:
+
 ▶️ (https://youtu.be/bVZbL7705Sg?si=PdYU8lgqboBivOSK)
 
 1 minute preview(just visuals):
+
 ▶️(https://youtu.be/17Cz8rPHFvM)
 
 
