@@ -35,22 +35,22 @@ full detailed simulation:
 
 ## 📸 Screenshots
 
-### 🕳️ Cinematic View
+### Cinematic View
 ![Cinematic Black Hole View](assets/screenshots/cinematic_view.png)
 
-### 📚 Learn Mode — Relativistic Effects
+### Learn Mode — Relativistic Effects
 ![Learn Mode](assets/screenshots/learn_mode.png)
 
-### 🔭 Guided Journey — Gravitational Lensing
+### Guided Journey — Gravitational Lensing
 ![Guided Journey](assets/screenshots/guided_journey.png)
 
-### 🔬 Physics Visualization Mode
+### Physics Visualization Mode
 ![Physics Mode](assets/screenshots/physics_mode.png)
 
 ---
-## ✨ Features
+## Features
 
-### 🌌 Cinematic Black Hole Visualization
+### Cinematic Black Hole Visualization
 
 - Real-time black hole rendering
 - Accretion disk visualization
@@ -60,7 +60,7 @@ full detailed simulation:
 
 ---
 
-### 🕳️ Kerr Black Hole Physics
+### Kerr Black Hole Physics
 
 - Rotating black hole simulation concepts
 - Event horizon calculation
@@ -70,7 +70,7 @@ full detailed simulation:
 
 ---
 
-### 🔭 General Relativistic Ray Tracing
+### General Relativistic Ray Tracing
 
 - Photon trajectory simulation
 - Backward ray tracing from observer camera
@@ -79,7 +79,7 @@ full detailed simulation:
 
 ---
 
-### 📚 Learn Mode
+###  Learn Mode
 
 An educational mode designed for understanding black holes interactively.
 
@@ -93,7 +93,7 @@ Includes:
 
 ---
 
-### 🚀 Explorer Mode
+### Explorer Mode
 
 Move around the simulation:
 
@@ -103,7 +103,7 @@ Move around the simulation:
 
 ---
 
-### 🧪 Physics Sandbox
+### Physics Sandbox
 
 Experiment with:
 
@@ -114,7 +114,7 @@ Experiment with:
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - Python 3.12
 - Taichi
@@ -123,7 +123,7 @@ Experiment with:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Blackhole-Simulator/
@@ -137,7 +137,7 @@ Blackhole-Simulator/
 
 ---
 
-## ▶️ Running the Simulator
+## Running the Simulator
 
 Install dependencies:
 
@@ -183,7 +183,7 @@ The simulator is designed to feel like a virtual astrophysics laboratory — com
 
 ---
 
-## 🚧 Future Improvements
+## Future Improvements
 
 - More realistic accretion disk rendering
 - Higher quality cinematic visualization
